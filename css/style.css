@@ -39,6 +39,10 @@ header {
   width: 60%;
 }
 
+.wd-40 {
+  width: 40%;
+}
+
 .border {
   border: 2px dashed black;
 }
@@ -66,10 +70,22 @@ section.bg-blue {
   background-color: rgb(239, 130, 237);
 }
 
+.bg-lblue {
+  background-color: rgb(30, 144, 255);
+}
+
+.bg-lpink {
+  background-color: rgb(255, 192, 202);
+}
+
 .flex {
   display: flex;
 }
 
 .pd-20 {
   padding: 30px 0;
+}
+
+.h-500 {
+  height: 500px;
 }
