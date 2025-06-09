@@ -78,6 +78,10 @@ section.bg-blue {
   background-color: rgb(255, 192, 202);
 }
 
+.bg-gray {
+  background-color: rgb(211, 211, 211);
+}
+
 .flex {
   display: flex;
 }
